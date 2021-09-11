@@ -43,12 +43,12 @@ Refactoring a code means editing a code. It is usually done to make the code mor
 ### **Disadvantages of refactoring code in general**
   Time consuming, and confusing.
 
-## **Advantages of the original and refactored VBA script**
+### **Advantages of the original and refactored VBA script**
 ---
 - The original script was easy to understand
 - The refactored script is slightly more efficient. 
 ---
-## **Disadvantages of of the original and refactored VBA script**
+### **Disadvantages of of the original and refactored VBA script**
 
 - Refactored script was a bit confusing
 - Efficiency was more or less same as original script
